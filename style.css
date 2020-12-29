@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
 body {
   background-color: white;
   font-family: 'Raleway', sans-serif;
@@ -32,7 +37,7 @@ body {
 
 #banner .content h1 {
   border: 3px solid white;
-  position: relative;
+  position:;
   top: 50px;
   width: 400px;
   margin: 0 auto;
@@ -44,7 +49,7 @@ body {
   text-align: center;
   width: 400px;
   height: 1000px;
-  overflow: scroll;
+  overflow:;
 }
 
 h1 {
@@ -85,7 +90,7 @@ p {
 }
 
 .byline {
-  border-bottom: 1px solid LightGrey;
+  border-bottom:1px do LightGrey;
   border-top: 1px solid LightGrey;
   color: DarkGrey;
   font-size: 14px;
@@ -105,7 +110,7 @@ p {
   border: 1px solid red;
   border-radius: 3px;
   color: white;
-  display: inline-block;
+  display:;
   margin: 10px;
   padding: 14px;
   text-decoration: none;
